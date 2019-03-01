@@ -1,0 +1,32 @@
+<?php
+$localhost = "mysql.hostinger.com.br";
+$usuario = "u864842247_mrcat";
+$senha = "22997788";
+$banco = "u864842247_mrcat";
+
+$conecta = mysqli_connect("$localhost", "$usuario", "$senha", "$banco") or die('nao foi possivel se conectar');
+
+$sql = "select * from produtos";
+
+$exec = mysqli_query($conecta, $sql);
+
+
+
+while ($linha = mysqli_fetch_assoc($exec)){
+echo $linha['nome'];
+
+
+
+}
+?>
+
+
+
+
+<html>
+<head>titulo</head>
+<body>Index</body>
+
+
+
+</html>

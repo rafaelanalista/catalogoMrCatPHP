@@ -1,0 +1,99 @@
+
+			#tudo{
+			
+				
+			margin: 0 auto;
+			
+			
+			width:970px;
+			height:2000px;
+
+		    }
+
+
+
+
+			#topo{
+			height:200px;
+			
+			width:970px;
+			
+			}
+		
+			.busca{
+			height:50;
+			width:500;
+			
+			}
+			
+			form{
+text-align:;			
+			
+			}
+
+
+			.btn{
+			background-color:black;
+			border:none;
+			height:50;
+			width:70;
+			color:white;
+			
+			}
+			#esquerda{
+			float:left;
+			width:220;
+			font-family: Arial;
+			height:1000;
+			font-size:14px;
+			font-family:Lucida Sans;
+			
+
+			}
+
+
+			#resultados{
+			float:right;
+		
+			height:980;
+			border: 1px solid black;
+}
+
+
+
+			#TOPO2{
+			FONT-FAMILY:Lucida Sans;
+			text-align:right;
+			}
+
+			A{
+			text-decoration:none;
+			color:black;
+			}
+
+			a:hover {
+			background-color:black;
+			color:white;
+			}
+
+			.sexo{
+				PADDING:10PX;
+				MARGIN:9PX;
+				font-family: ARIAL;
+				background-color:black;
+				width:110;
+				color:white;
+
+			}
+			.sexo a{
+
+				color:white;
+			}
+			.sexo a:hover{
+				background-color:white;
+				color:black;
+
+
+
+			}
+		
